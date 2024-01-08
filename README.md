@@ -1,16 +1,15 @@
-### Hi there 👋
+````bash
+> help --info
+> A French frontend developer who primarily work with ReactJS.
+> Likes expanding his development skills and knowledge. 
+> Currently looking for an apprenticeship in web development.
+> See more at www.thomaslefebvre.fr
+````
 
-<!--
-**thmslfb/thmslfb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+````bash
+> help --contact
+> website: www.thomaslefebvre.fr
+> linkedin: thomas-ie
+> github: thmslfb
+> mailto: contact [at] thomaslefebvre.fr
+````
