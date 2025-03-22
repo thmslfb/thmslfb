@@ -1,8 +1,8 @@
 ````bash
 > help --info
-> A French frontend developer who primarily work with ReactJS.
+> A Frontend Engineer based in Amiens, France.
 > Likes expanding his development skills and knowledge. 
-> Currently looking for an apprenticeship in web development.
+> Always open to exciting collaboration opportunities.
 > See more at www.thomaslefebvre.fr
 ````
 
