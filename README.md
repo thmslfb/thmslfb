@@ -1,6 +1,6 @@
 ````bash
 > help --info
-> A Frontend Engineer based in Amiens, France.
+> A Software Engineer based in Amiens, France.
 > Likes expanding his development skills and knowledge. 
 > Always open to exciting collaboration opportunities.
 > See more at www.thomaslefebvre.fr
