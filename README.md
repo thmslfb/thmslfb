@@ -1,8 +1,8 @@
 ````bash
 > help --info
-> A Software Engineer based in Amiens, France.
-> Likes expanding his development skills and knowledge. 
-> Always open to exciting collaboration opportunities.
+> A Cybersecurity Engineering Student based in Amiens, France.
+> Works on threat detection, log analysis and incident response.
+> Documents the labs he runs to learn.
 > See more at www.thomaslefebvre.fr
 ````
 
@@ -11,5 +11,5 @@
 > website: www.thomaslefebvre.fr
 > linkedin: thomas-ie
 > github: thmslfb
-> mailto: contact [at] thomaslefebvre.fr
+> mailto: t.lefebvre.cyber [at] gmail.com
 ````
